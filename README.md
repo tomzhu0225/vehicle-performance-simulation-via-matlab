@@ -74,5 +74,5 @@ Spec of the design is shown as follow:
 
 We are able to perform the analysis of the vehicle using the modified code in EREV folder.
 
-![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/EREV_Acce.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/EREV_acce.png)
 ![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/power_drain_mode.png)
