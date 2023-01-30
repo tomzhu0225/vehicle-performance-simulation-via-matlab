@@ -55,7 +55,7 @@ A L/100km number is give in the command window.
 
 ## EUDC.m
 
-![Alt Text](pics\EUDC_ss.png)
+![Alt Text](\pics\EUDC_ss.png)
 
 ## NEDC.m
 
