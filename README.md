@@ -47,7 +47,7 @@ The file evaluates the steady-state cruising fuel consumption at 50, 90, and 120
 **Further fuel consumption tests rely on this table, and you can modify it with your own mapping.**
 
 ## ECE.m
-![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/ECE_ss.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/ECE_SS.png)
 
 The script evaluates the fuel consumption in ECE test with and without start and stop system for your config.
 
