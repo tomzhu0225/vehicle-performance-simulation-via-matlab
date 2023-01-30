@@ -35,7 +35,7 @@ rpm=5.5 %Max power rpm
 This script provides the acceleration character of the specified car configuration. The gear change time and idle RPM can be changed in the script.
 
 
-![Alt Text](pics\accelaration.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/accelaration.png)
 
 **The gear ratio depends on the L calculated in maxspeed.m. It is possible to re-declare the L at the beginning of the script.**
 
