@@ -47,7 +47,7 @@ The file evaluates the steady-state cruising fuel consumption at 50, 90, and 120
 **Further fuel consumption tests rely on this table, and you can modify it with your own mapping.**
 
 ## ECE.m
-![Alt Text](pics\ECE_ss.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/ECE_ss.png)
 
 The script evaluates the fuel consumption in ECE test with and without start and stop system for your config.
 
@@ -55,7 +55,7 @@ A L/100km number is give in the command window.
 
 ## EUDC.m
 
-![Alt Text](\pics\EUDC_ss.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/EUDC_SS.png)
 
 ## NEDC.m
 
@@ -63,16 +63,16 @@ NEDC is a combination of ECE and EUDC.
 
 ## WLTP.m
 
-![Alt Text](pics\WLTP.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/WLTP.png)
 
 # Instance
 
 We use these basic code to perform the analysis of a EREV design. See code in EREV folder.
 
 Spec of the design is shown as follow:
-![Alt Text](pics\spec.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/spec.png)
 
 We are able to perform the analysis of the vehicle using the modified code in EREV folder.
 
-![Alt Text](pics\EREV_Acce.png)
-![Alt Text](pics\power_drain_mode.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/EREV_Acce.png)
+![Alt Text](https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab/blob/master/pics/power_drain_mode.png)
