@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "ZHU"
+  given-names: "Bowen"
+  orcid: "https://orcid.org/0000-0002-9704-3917"
+
+title: "vehicle-performance-simulation-via-matlab"
+version: 1.0.0
+doi: 10.5281/zenodo.10479351
+date-released: 2023
+url: "https://github.com/tomzhu0225/vehicle-performance-simulation-via-matlab"
